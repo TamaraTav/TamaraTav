@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-I'm a detail-oriented full-stack engineer, with more than 10 years of experience, who enjoys building modern, scalable applications and solving real-world problems through clean, efficient code. I care about writing quality maintainable software, improving user experience, and always learning something new. I embrace my inner geek and love exploring the latest advancements in technology. I'm tech-savvy and familiar with multiply software programs . I've been working as a code monkey for years, but I still enjoy the challenge of solving complex coding problems. I am dedicated person who never stops working on something until it's perfect.
+I'm a detail-oriented full-stack engineer, with more than 10 years of experience, who enjoys building modern, scalable applications and solving real-world problems through clean, efficient code. I care about writing quality maintainable software, improving user experience, and always learning something new. I embrace my inner geek and love exploring the latest advancements in technology. 
+
+I'm tech-savvy and familiar with multiply software programs . I've been working as a code monkey for years, but I still enjoy the challenge of solving complex coding problems. I am dedicated person who never stops working on something until it's perfect.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [tamuna\_tavamaishvili@yahoo.com](mailto:tamuna_tavamaishvili@yahoo.com)
@@ -17,6 +19,7 @@ I'm a detail-oriented full-stack engineer, with more than 10 years of experience
 </p>
 
 
+<<<<<<< HEAD
 
 <img src="https://raw.githubusercontent.com/https://github.com/TamaraTav/https://github.com/TamaraTav/output/snake.svg" alt="Snake animation" />
 
@@ -27,13 +30,15 @@ I'm a detail-oriented full-stack engineer, with more than 10 years of experience
 
 <p align="left"> <a href="https://discord.com/users/tamara_75089" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TamaraTav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tamara-tava/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+=======
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](//http://tamaratava.com//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+>>>>>>> a69f4e1a232fc3830126475c35dc0e5cc2963c69
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TamaraTav"><img src="https://github-readme-stats.vercel.app/api?username=TamaraTav&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TamaraTav's GitHub stats" /></a>
+<a href="http://www.github.com/TamaraTav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TamaraTav&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/TamaraTav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TamaraTav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-**TamaraTav/TamaraTav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
