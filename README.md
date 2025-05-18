@@ -5,6 +5,7 @@ FullStack Developer
 -------------------
 
 I'm a detail-oriented full-stack engineer, with more than 10 years of experience, who enjoys building modern, scalable applications and solving real-world problems through clean, efficient code. I care about writing quality maintainable software, improving user experience, and always learning something new. I embrace my inner geek and love exploring the latest advancements in technology. 
+
 I'm tech-savvy and familiar with multiply software programs . I've been working as a code monkey for years, but I still enjoy the challenge of solving complex coding problems. I am dedicated person who never stops working on something until it's perfect.
 
 * 🌍  I'm based in United States
