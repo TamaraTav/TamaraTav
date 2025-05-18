@@ -20,7 +20,7 @@ I'm tech-savvy and familiar with multiply software programs . I've been working 
 
 
 ###
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TamaraTav/TamaraTav/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TamaraTav/TamaraTav/main/ninjala-ninjala-anime.gif" width="260px"/>
 
 ### Socials
 
