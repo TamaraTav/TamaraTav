@@ -43,12 +43,14 @@ I'm tech-savvy and familiar with multiply software programs . I've been working 
 =======
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](//http://tamaratava.com//)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
->>>>>>> a69f4e1a232fc3830126475c35dc0e5cc2963c69
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TamaraTav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TamaraTav&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=TamaraTav&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TamaraTav&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TamaraTav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TamaraTav&icon=0&color=0)](https://visitcount.itsvg.in)
