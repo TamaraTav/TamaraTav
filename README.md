@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/tamaratav/tamaratav/main/profile_tamara_tava.gif)]
+![](https://raw.githubusercontent.com/tamaratav/tamaratav/main/profile_tamara_tava.gif)
 ==============================================================================================================================
 
 FullStack Developer
