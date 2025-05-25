@@ -28,7 +28,7 @@ I'm tech-savvy and familiar with multiply software programs . I've been working 
   <a href="https://tamara-bad6338.slack.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="https://www.discord.com/chanels/tamara_tava" target="_blank">
+  <a href="https://www.discord.com/users/1186166703302922395" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 
